@@ -7,3 +7,6 @@
 
 ## What info is sent to developers when the app crashes?
 You can find answer here [https://oops.redisdesktop.com/help/](https://oops.redisdesktop.com/help/)
+
+## Connecting with Azure redis cache
+
